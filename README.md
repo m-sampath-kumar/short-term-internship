@@ -28,15 +28,14 @@ The main goal of this project is to **predict engine temperature** based on sens
 engine-failure-dashboard/
 │
 ├── app.py # Main Streamlit application
+
 ├── engine_failure_dataset.csv # Sample dataset (if available)
+
 ├── README.md # Project description
+
 ├── requirements.txt # Python dependencies
+
 └── visualizations/ # Optional: saved plots
-
-yaml
-Copy code
-
----
 
 ## 🛠️ Technologies Used
 - **Python**  
@@ -45,7 +44,6 @@ Copy code
 - **Matplotlib & Seaborn** for visualization  
 - **Scikit-learn** for regression models (Linear, Decision Tree, Random Forest, SVR, KNN)  
 
----
 
 ## 🚀 How to Run
 
@@ -80,7 +78,7 @@ Mylapilli Sampath Kumar
 
 B.Sc Computer Science (Honours), Gayatri Vidya Parishad College
 
-GitHub: your-username
+GitHub: 
 
 ⚡ Goals & Learning Outcomes
 Gain hands-on experience with machine learning regression models.
