@@ -78,7 +78,7 @@ Mylapilli Sampath Kumar
 
 B.Sc Computer Science (Honours), Gayatri Vidya Parishad College
 
-GitHub: 
+GitHub: m-sampath-kumar
 
 ⚡ Goals & Learning Outcomes
 Gain hands-on experience with machine learning regression models.
