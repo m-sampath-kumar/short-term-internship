@@ -27,15 +27,10 @@ The main goal of this project is to **predict engine temperature** based on sens
 ## 📁 Repository Structure
 engine-failure-dashboard/
 │
-
 ├── app.py # Main Streamlit application
-
 ├── engine_failure_dataset.csv # Sample dataset (if available)
-
 ├── README.md # Project description
-
 ├── requirements.txt # Python dependencies
-
 └── visualizations/ # Optional: saved plots
 
 yaml
